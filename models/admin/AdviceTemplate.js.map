@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "AdviceTemplate.js",
+  "sourceRoot": "",
+  "sources": [
+    "AdviceTemplate.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAA,MAAA;;EAAA,QAAA,GAAW,OAAA,CAAQ,UAAR;;EACX,OAAA,CAAQ,wBAAR;;EACA,QAAA,GAAW,QAAQ,CAAC,MAAM,CAAC,KAAK,CAAC;;EACjC,iBAAA,GAAoB,OAAA,CAAQ,eAAR,CAAwB,CAAC;;EAE7C,oBAAA,GAAuB,iBAAiB,CAAC,MAAlB,CAAyB,EAAzB;;EAGvB,MAAM,CAAC,OAAP,GAAiB;IAAE,KAAA,EAAO,QAAQ,CAAC,KAAT,CAAe,QAAf,EAAyB,oBAAzB,CAAT;IAAyD,MAAA,EAAQ,oBAAjE;;AARjB"
+}

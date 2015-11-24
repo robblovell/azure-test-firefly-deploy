@@ -1,0 +1,21 @@
+extends layout
+
+
+block content
+  h1= title
+  p #{title} Notification Wizard
+  p #{message}
+  p #{environment}
+
+  form(name="Apple Notifiy", action="/notification", method="post")
+    div.input
+      span.label Message     :
+      textarea(name="message", rows="6", class="entry")
+    div.input
+      span.label Device Token:
+      input(type="text", name="token", class="entry")
+    div.input
+      span.label Transport   :
+      input(type="text", name="transport", class="entry")
+    div.actions
+      input(type="submit", value="send")

@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "TaskTemplate.js",
+  "sourceRoot": "",
+  "sources": [
+    "TaskTemplate.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAA,MAAA;;EAAA,QAAA,GAAW,OAAA,CAAQ,UAAR;;EACX,OAAA,CAAQ,wBAAR;;EACA,iBAAA,GAAoB,OAAA,CAAQ,eAAR,CAAwB,CAAC;;EAE7C,kBAAA,GAAqB,iBAAiB,CAAC,MAAlB,CAAyB,EAAzB;;EAGrB,MAAM,CAAC,OAAP,GAAiB;IAAE,KAAA,EAAO,QAAQ,CAAC,KAAT,CAAe,MAAf,EAAuB,kBAAvB,CAAT;IAAqD,MAAA,EAAQ,kBAA7D;;AAPjB"
+}

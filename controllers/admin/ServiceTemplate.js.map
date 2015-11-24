@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "ServiceTemplate.js",
+  "sourceRoot": "",
+  "sources": [
+    "ServiceTemplate.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAA,MAAA;;EAAA,QAAA,GAAW,OAAA,CAAQ,UAAR;;EACX,QAAA,GAAW,OAAA,CAAQ,+BAAR;;EAEX,MAAM,CAAC,OAAP,GAAiB,SAAC,GAAD,EAAM,KAAN;AACb,WAAO,QAAA,CAAS,GAAT,EAAc,EAAd,EAAkB,kBAAlB,EAAsC,KAAtC,CAA4C,CAAC,IAA7C,CAAA;EADM;AAHjB"
+}
